@@ -1,0 +1,5 @@
+rootProject.name = 'spring-bookshop-cloud'
+includeBuild 'api-gatway'
+includeBuild 'eureka-server'
+includeBuild 'bookshop-sale-micro'
+includeBuild 'bookshop-auth-micro'
